@@ -3,4 +3,6 @@ Análise de dados sobre a representatividade das mulheres nas eleições de 2010
 
 Fonte: https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1 (Candidatos/2010-2020)  
 
-![previa1](https://github.com/WeDias/MulheresNaPolitica-Brasil/blob/main/ignorar/previa1.png)
+![previa1](https://github.com/WeDias/MulheresNaPolitica-Brasil/blob/main/ignorar/previa1.png)  
+  
+![previa2](https://github.com/WeDias/MulheresNaPolitica-Brasil/blob/main/ignorar/previa2.png)

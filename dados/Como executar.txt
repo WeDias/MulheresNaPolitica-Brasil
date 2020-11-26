@@ -1,0 +1,11 @@
+Baixe os dados dos candidatos de 2010 até 2020
+Link: https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1
+Depois de baixar, extrair todos os arquivos para a pasta dados
+
+exemplo da estrutura das pastas:
+dados\consulta_cand_{ANO}\consulta_cand_{ANO}_{UF}.txt
+			...
+dados\consulta_cand_{ANO}\consulta_cand_{ANO}_{UF}.csv
+			...
+
+Após este processo, basta executar o código
